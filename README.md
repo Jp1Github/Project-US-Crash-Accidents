@@ -6,6 +6,7 @@
 The dataset it taken from the Kaggle Website and was uploaded by Sobhan Moosavi. It is a United States country wide collection of data from 49 states that is continuously collected starting from February 2016. Gathering data is done by several data providers and multiple API (Application Programming Interface) that provide streaming of data. Those API broadcast traffic incidents that is then recorded by State Department of transportation, law enforcement agencies, traffic cameras and sensors within its road network. 
 As of this data it has collected data starting from February 2016 to March 2013 and has a record for about 7.7 million accidents. However as stated by the contributor this data set may have missing information and data for certain days possibly by network connectivity issues at the time of data collection. Unfortunately, has stated that this information shall no longer be updated and the data set shall be the current one.
 
+
 ### Overview of the Problem and How Data Science could help:
 On the research at the National Highway Traffic Safety Administration that in 2019 that $340 billion was the cost of motor vehicle crashes. Equivalent to $1,035 for each of the 328 million people in the United States and 1.6% of the $21.4 trillion U.S gross domestic product for 2019 itself.
 Losses include medical cost, lost of productivity, legal and court cost, emergency service costs, insurance administration cost, congestion costs, property damage and workplace losses. Thus, when quality of life valuation is considered, the total value of societal harm was nearly $1.4 trillion.
@@ -66,7 +67,6 @@ I tend to use Data Science to predict what such presence contributes to the Seve
 | 46	Nautical_Twilight |	Shows the period of day (i.e. day or night) based on nautical twilight. | Yes
 | 47	Astronomical_Twilight |	Shows the period of day (i.e. day or night) based on astronomical twilight.| Yes
 
-
 **Task list**, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
   - [x] Exploring the Data (EDA)
   - [ ] Feature Analysis (Univariate) 
@@ -74,3 +74,8 @@ I tend to use Data Science to predict what such presence contributes to the Seve
   - [ ] Exploring Supervised Machine Learning 
   - [ ] Exploring Unsupervised Machine Learning
   - [ ] Upload final project to Synapse when all tasks are complete :tada:
+
+Notes for myself:
+Target is the Severity which is 1 -4 and is shows impact to traffic. Should I assume it to relate to severe physical injury??
+Shoud I squash or combine it that 2 combined with 1 and 3 combined to 4??
+
