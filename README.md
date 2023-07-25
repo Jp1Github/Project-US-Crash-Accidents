@@ -17,10 +17,11 @@ I tend to use Data Science to predict what such presence contributes to the Seve
 
 Attributes Description
 #	Attribute	Description	Nullable
-|Attribute |Description	|Nullable
+
+| Attribute | Description	| Nullable
 | --- | -- |
-|1	ID | This is a unique identifier of the accident record. |	No
-2	Severity	Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay).	No
+| 1	ID | This is a unique identifier of the accident record. |	No
+| 2	Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay). |	No
 3	Start_Time	Shows start time of the accident in local time zone.	No
 4	End_Time	Shows end time of the accident in local time zone. End time here refers to when the impact of accident on traffic flow was dismissed.	No
 5	Start_Lat	Shows latitude in GPS coordinate of the start point.	No
