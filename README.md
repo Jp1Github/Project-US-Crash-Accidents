@@ -12,7 +12,8 @@ Losses include medical cost, lost of productivity, legal and court cost, emergen
 The target feature looking at is the Severity that has a number of 1 being the shortest traffic delay and 4 that has a significant impact on traffic. And the independent variables are what presence in that road has a Bump, Crossing, Junction, No Exit, Railway, Roundabout, Station and Stop.
 I tend to use Data Science to predict what such presence contributes to the Severity. Finding areas, city of County or States with possible increase occurrence. Identifying the presence factors may help to provide appropriate further studies and solutions to minimize adverse effect of severity.
 
-Reference: https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019
+[ Reference:] (https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019)
+
 
 ### Attributes Description
 | Attribute | Description	| Nullable |
