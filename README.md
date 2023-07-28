@@ -39,7 +39,7 @@ I tend to use Data Science to predict what such presence contributes to the Seve
 | 18	Country |	Shows the country in address field.	| Yes
 | 19	Timezone |	Shows timezone based on the location of the accident (eastern, central, etc.). |	Yes
 | 20	Airport_Code |	Denotes an airport-based weather station which is the closest one to location of the accident.| Yes
-| 21	Weather_Timestamp |	Shows the time-stamp of weather observation record (in local time).| Yes
+| 21	Weather_Timestamp  |	Shows the time-stamp of weather observation record (in local time).| Yes
 | 22	Temperature(F) |	Shows the temperature (in Fahrenheit). | Yes
 | 23	Wind_Chill(F) |	Shows the wind chill (in Fahrenheit).	| Yes
 | 24	Humidity(%) |	Shows the humidity (in percentage).	| Yes
@@ -65,7 +65,7 @@ I tend to use Data Science to predict what such presence contributes to the Seve
 | 44	Sunrise_Sunset |	Shows the period of day (i.e. day or night) based on sunrise/sunset. | Yes
 | 45	Civil_Twilight |	Shows the period of day (i.e. day or night) based on civil twilight.| Yes
 | 46	Nautical_Twilight |	Shows the period of day (i.e. day or night) based on nautical twilight. | Yes
-| 47	Astronomical_Twilight |	Shows the period of day (i.e. day or night) based on astronomical twilight.| Yes
+| 47	Astronomical_Twilight  |	Shows the period of day (i.e. day or night) based on astronomical twilight.| Yes
 
 **Task list**, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
   - [x] Exploring the Data (EDA)
