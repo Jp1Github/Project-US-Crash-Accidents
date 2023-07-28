@@ -4,7 +4,7 @@
 
 ### About the Dataset:
 The dataset it taken from the Kaggle Website and was uploaded by Sobhan Moosavi. It is a United States country wide collection of data from 49 states that is continuously collected starting from February 2016. Gathering data is done by several data providers and multiple API (Application Programming Interface) that provide streaming of data. Those API broadcast traffic incidents that is then recorded by State Department of transportation, law enforcement agencies, traffic cameras and sensors within its road network. 
-As of this data it has collected data starting from February 2016 to March 2013 and has a record for about 7.7 million accidents. However as stated by the contributor this data set may have missing information and data for certain days possibly by network connectivity issues at the time of data collection. Unfortunately, has stated that this information shall no longer be updated and the data set shall be the current one.
+As of this data it has collected data starting from February 2016 to March 2023 and has a record for about 7.7 million accidents. However as stated by the contributor this data set may have missing information and data for certain days possibly by network connectivity issues at the time of data collection. Unfortunately, has stated that this information shall no longer be updated and the data set shall be the current one.
 
 
 ### Overview of the Problem and How Data Science could help:
