@@ -69,11 +69,11 @@ I tend to use Data Science to predict what such presence contributes to the Seve
 
 **Task list**, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
   - [x] Exploring the Data (EDA)
-  - [ ] Feature Analysis (Univariate) 
-  - [ ] Feature Relationship Analysis (Univariate) 
-  - [ ] Exploring Supervised Machine Learning 
-  - [ ] Exploring Unsupervised Machine Learning
-  - [ ] Upload final project to Synapse when all tasks are complete :tada:
+  - [x] Feature Analysis (Univariate) 
+  - [x] Feature Relationship Analysis (Univariate) 
+  - [x] Exploring Supervised Machine Learning 
+  - [x] Exploring Unsupervised Machine Learning
+  - [x] Upload final project to Synapse when all tasks are complete :tada:
 
 Notes for myself:
 Target is the Severity which is 1 -4 and is shows impact to traffic. Should I assume it to relate to severe physical injury??
