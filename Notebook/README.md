@@ -1,36 +1,38 @@
-Here are my codes to analyze the data and develop machine learning model learned.
+In this project, I analyzed the data and developed a machine-learning model using the following code. Along the way, I encountered some mistakes and failures, which helped me learn and improve. This project was enjoyable and rewarding, as it required me to do a lot of research and deepen my understanding of:
 
-The mistakes and failures and what I have learned and needed to be improved.
-I have enjoyed this project that makes me to do a lot of research to further my knowledge on:
 - Python
 - Jupyter and Pandas
 - Statistics
-- Different modelling of machine learning techniques
+- Various machine learning methods
   
-It also showed my patience and perserverance which I am very proud of.
+I demonstrated patience and perseverance in this project, which I am very proud of.
 
 Sequence for this notebook:
 
 Objective: Can a machine learning predict the target "Severity" with a certain road feature.
 
-1. US_Accident_Crash_Data_Cleaning.
-   Here is cleaning the data, change to the appropriate data type, renaming columns and others.
-   
-2. Feature_Analysis.
-   Conduct further cleaning, analysis and some preprocessing.
-   Analyzing the covariance, correlation and other statistical information. I created additional
-   features here that cause high correlation in the target variable. That produced unusual results.
-   
-4. Preprocess_Modelling.
-   Corrected the issue and employed some appropriate preprocessing.
-   Tested four (4) supervised machine learning and one (1) deep learning.
-  
+- Objective: To predict the target "Severity" of road accidents using machine learning based on certain road features.
+
+**1. US_Accident_Crash_Data_Cleaning:**
+   In this section, I cleaned the data, changed the data types to appropriate ones, renamed the columns, and performed other tasks.
+
+**2. Feature Analysis:**
+   In this section, I conducted further cleaning, analysis, and some preprocessing of the data. I analyzed the covariance, correlation, and 
+   other statistical information of the features. I created additional features that had a high correlation with the target variable. However, 
+   this produced some unusual results.
+
+**3. Preprocess Modelling:**
+   In this section, I corrected the issue and applied some appropriate preprocessing techniques. I tested four (4) supervised machine learning 
+   models and one (1) deep learning model. They are:
+
    - Logistic Regression
    - Decision Tree
    - Naive Bayes
    - XGBoost
-   - Tensor Flow
+   - TensorFlow
 
-   In the conclusion are my learning, insights and thoughts about this project.
+**Conclusion:**
+In this section, I summarized my findings, insights, and thoughts about this project.
 
-   Thank you for your time reading my project.
+Thank you for reading my project. I hope you find it interesting and informative.
+
