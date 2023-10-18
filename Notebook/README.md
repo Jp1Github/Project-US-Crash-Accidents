@@ -14,14 +14,17 @@ Objective: Can a machine learning predict the target "Severity" with a certain r
 - Objective: To predict the target "Severity" of road accidents using machine learning based on certain road features.
 
 **1. US_Accident_Crash_Data_Cleaning:**
+   
    In this section, I cleaned the data, changed the data types to appropriate ones, renamed the columns, and performed other tasks.
 
 **2. Feature Analysis:**
+
    In this section, I conducted further cleaning, analysis, and some preprocessing of the data. I analyzed the covariance, correlation, and 
    other statistical information of the features. I created additional features that had a high correlation with the target variable. However, 
    this produced some unusual results.
 
 **3. Preprocess Modelling:**
+
    In this section, I corrected the issue and applied some appropriate preprocessing techniques. I tested four (4) supervised machine learning 
    models and one (1) deep learning model. They are:
 
