@@ -3,15 +3,12 @@
 ## US-Accident: A Countrywide Traffic Accident Dataset
 
 ### About the Dataset:
-The dataset it taken from the Kaggle Website and was uploaded by Sobhan Moosavi. It is a United States country wide collection of data from 49 states that is continuously collected starting from February 2016. Gathering data is done by several data providers and multiple API (Application Programming Interface) that provide streaming of data. Those API broadcast traffic incidents that is then recorded by State Department of transportation, law enforcement agencies, traffic cameras and sensors within its road network. 
-As of this data it has collected data starting from February 2016 to March 2023 and has a record for about 7.7 million accidents. However as stated by the contributor this data set may have missing information and data for certain days possibly by network connectivity issues at the time of data collection. Unfortunately, has stated that this information shall no longer be updated and the data set shall be the current one.
+The dataset is taken from the Kaggle Website and was uploaded by Sobhan Moosavi. It contains data on traffic accidents across 49 states in the United States, collected from February 2016 to March 2023. The data sources include various APIs (Application Programming Interfaces) that stream traffic incidents, as well as the State Department of Transportation, law enforcement agencies, traffic cameras, and road network sensors. The dataset has a record of about 7.7 million accidents, but it may have some missing or incomplete information due to network connectivity issues during data collection. The contributor has stated that this dataset will not be updated any further.
 
 
 ### Overview of the Problem and How Data Science could help:
-On the research at the National Highway Traffic Safety Administration that in 2019 that $340 billion was the cost of motor vehicle crashes. Equivalent to $1,035 for each of the 328 million people in the United States and 1.6% of the $21.4 trillion U.S gross domestic product for 2019 itself.
-Losses include medical cost, lost of productivity, legal and court cost, emergency service costs, insurance administration cost, congestion costs, property damage and workplace losses. Thus, when quality of life valuation is considered, the total value of societal harm was nearly $1.4 trillion.
-The target feature looking at is the Severity that has a number of 1 being the shortest traffic delay and 4 that has a significant impact on traffic. And the independent variables are what presence in that road has a Bump, Crossing, Junction, No Exit, Railway, Roundabout, Station and Stop.
-I tend to use Data Science to predict what such presence contributes to the Severity. Finding areas, city of County or States with possible increase occurrence. Identifying the presence factors may help to provide appropriate further studies and solutions to minimize adverse effect of severity.
+My research aims to predict the severity of traffic delays caused by different factors on the road, such as bumps, crossings, junctions, no exits, railways, roundabouts, stations, and stops. The severity is measured on a scale from 1 to 4, where 1 is the shortest delay and 4 is the longest delay. I use data science methods to analyze how these factors affect the severity and identify the areas, cities, counties, or states with the highest occurrence of severe delays. By identifying the factors that contribute to traffic severity, I hope to provide further studies and solutions to minimize the adverse effects of traffic delays on society.
+
 
 [ Reference:] (https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019)
 
