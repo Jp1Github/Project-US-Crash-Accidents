@@ -7,12 +7,10 @@ In this project, I analyzed the data and developed a machine-learning model usin
   
 I demonstrated patience and perseverance in this project, which I am very proud of.
 
-Sequence for this notebook:
-
-Objective: Can a machine learning predict the target "Severity" with a certain road feature.
-
 - Objective: To predict the target "Severity" of road accidents using machine learning based on certain road features.
 
+  **Sequence for this notebook:**
+  
 **1. US_Accident_Crash_Data_Cleaning:**
    
    In this section, I cleaned the data, changed the data types to appropriate ones, renamed the columns, and performed other tasks.
