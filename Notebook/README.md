@@ -9,7 +9,7 @@ I demonstrated patience and perseverance in this project, which I am very proud 
 
 - Objective: To predict the target "Severity" of road accidents using machine learning based on certain road features.
 
-  **Sequence for this notebook:**
+**Sequence for this notebook:**
   
 **1. US_Accident_Crash_Data_Cleaning:**
    
