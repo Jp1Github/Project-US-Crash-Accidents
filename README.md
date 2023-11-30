@@ -1,5 +1,7 @@
 ## Capstone_Project:
 
+![US-Crash](https://github.com/Jp1Github/Project-US-Crash-Accidents/blob/main/US-Accident_Crash.jpg)
+
 ## US-Accident: A Countrywide Traffic Accident Dataset
 
 ### About the Dataset:
