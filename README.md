@@ -1,5 +1,5 @@
 ## Capstone_Project:
-https://github.com/Jp1Github/Project-US-Crash-Accidents/blob/main/Screenshot%202023-08-15%20232534.png
+![](https://github.com/Jp1Github/Project-US-Crash-Accidents/blob/main/Screenshot%202023-08-15%20232534.png)
 ## US-Accident: A Countrywide Traffic Accident Dataset
 
 ### About the Dataset:
